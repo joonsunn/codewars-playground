@@ -1,7 +1,7 @@
 /**
  *
  * @param {Number} seconds
- * @returns
+ * @returns String
  */
 
 function formatDuration(seconds) {
